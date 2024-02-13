@@ -1,5 +1,1 @@
-# profiler-symbol-server
-
-This is a work in progress of a local webserver that allows the Firefox profiler
-to obtain symbol information for profiles that were recorded locally.
-
+This functionality was subsumed into the `samply` crate which lives in the [samply repository](https://github.com/mstange/samply). Maybe I'll break it out into a separate `samply-server` crate at some point again.
